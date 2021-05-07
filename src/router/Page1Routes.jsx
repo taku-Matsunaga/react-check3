@@ -3,7 +3,7 @@ import Page1 from '../components/Page1'
 import Page1Detaila from '../components/Page1DetailA'
 import Page1Detailb from '../components/Page1DetailB'
 
-const Page1Routes = () => [
+const Page1Routes = [
   {
     path: "/",
     exact: true,
